@@ -12,7 +12,7 @@ Compare a resume with a job description, see the skills behind the match score, 
 
 </div>
 
-![HireLens AI ATS console showing a synthetic resume’s match score, matched skills, and skill gaps](docs/images/ats-console.webp)
+![HireLens AI landing page with the “Your Professional World. Reimagined.” headline and a 3D network visualization](docs/images/landing-page.webp)
 
 ## What you can do
 
@@ -73,6 +73,8 @@ The authentication database persists accounts. Job openings and candidate pipeli
 </details>
 
 ## Try the demos
+
+![HireLens AI ATS console showing a synthetic resume’s match score, matched skills, and skill gaps](docs/images/ats-console.webp)
 
 <details open>
 <summary><strong>Candidate demo</strong></summary>
